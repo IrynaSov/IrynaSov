@@ -1,4 +1,4 @@
-### Hi there 👋 I’m Iryna techncal IT recruiter
+### Hi there 👋 I’m techncal IT recruiter
 - 🔭 I’m currently working for CreatorIQ
 - 🌱 Learning SQL and Python (really?!) ^_^ 
 - 👯 I’m looking to collaborate on networking and socializing with people from Tech indystry
